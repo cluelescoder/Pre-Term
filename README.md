@@ -1,0 +1,8 @@
+# Pre Term Detection using machine learning
+The project prediction of pre term pregnancy using EHG signal and artificial intelligence is a project that uses machine learning to analyze EHG (electronic fetal heart rate) signals and predict the likelihood of preterm birth. Preterm birth is a major health concern, as it can lead to serious health complications for both the mother and the baby. The goal of this project is to develop a machine learning model that can automatically identify patterns in EHG signals that are indicative of preterm birth, and use this information to make predictions about the likelihood of preterm birth in a given pregnancy.
+
+To develop this model, the project will likely involve collecting a large dataset of EHG signals from pregnant women, along with information about the outcomes of their pregnancies (e.g. whether they had a preterm birth). The EHG signals will be preprocessed to extract features that are relevant to the prediction task, such as the fetal heart rate and various measures of the signal's amplitude and frequency.
+
+Once the data is prepared, the project will involve training and evaluating a machine learning model on this data, using a variety of algorithms and hyperparameters to find the best model for the task. The trained model can then be used to make predictions about the likelihood of preterm birth in a given pregnancy, based on the EHG signals from that pregnancy.
+
+Overall, the project aims to use advanced machine learning techniques to help identify pregnancies at risk for preterm birth, and provide healthcare providers with the information they need to take appropriate action to prevent complications.
